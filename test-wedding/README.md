@@ -4,7 +4,7 @@
 How To Use this Repository after clone
 
 ```bash
-  cd backend-test
+  cd test-wedding
   npm i
   npm run dev
 ```
